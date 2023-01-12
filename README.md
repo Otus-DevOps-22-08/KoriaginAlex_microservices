@@ -16,3 +16,6 @@ KoriaginAlex microservices repository
 ```
  docker compose -p korn up -d
 ```
+
+## monitoring-1
+ ссылка на хаб: https://hub.docker.com/repositories/koriagin
